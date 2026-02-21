@@ -89,24 +89,3 @@ To deploy your own:
 4.  Deploy 🚀
 
 ------------------------------------------------------------------------
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!\
-Feel free to fork the repo and submit a pull request.
-
-------------------------------------------------------------------------
-
-## 👨‍💻 Author
-
-**Indra Kiran Bhavanam Reddy**\
-- GitHub: https://github.com/indrakiran7b\
-- LinkedIn: https://linkedin.com/in/indra-kiran
-
-------------------------------------------------------------------------
-
-## ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub ---
-it helps a lot!
-
